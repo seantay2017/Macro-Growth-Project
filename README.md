@@ -59,13 +59,13 @@ LFPR: https://www.oecd.org/en/data/indicators/labour-force-participation-rate.ht
      - Labor force status: Labor force
        
 POP: https://bit.ly/3UMyWcW
--Data Refinement:
-      - Time Period: Past 20 Periods
-      - Reference Area: All available countries, excluding country groupings
-      - Measure: Population
-      - Unit of measure: Persons
-      - Sex: Total
-      - Age: Total
+- Data Refinement:
+     - Time Period: Past 20 Periods
+     - Reference Area: All available countries, excluding country groupings
+     - Measure: Population
+     - Unit of measure: Persons
+     - Sex: Total
+     - Age: Total
        
 Patent: https://bit.ly/3W188pM
 - Data Refinement:
